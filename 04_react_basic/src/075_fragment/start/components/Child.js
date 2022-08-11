@@ -1,9 +1,9 @@
 import './Child.css';
-import React from 'react';
+import { Fragment } from 'react';
 
 const Child = () => {
   return (
-    <React.Fragment>
+    <Fragment>
       <div className="component">
         <h3>Hello Component</h3>
       </div>
@@ -14,7 +14,7 @@ const Child = () => {
         aspernatur autem qui mollitia quam quas atque vitae placeat fuga laborum
         temporibus.
       </p>
-    </React.Fragment>
+    </Fragment>
   );
 };
 
