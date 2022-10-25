@@ -1,22 +1,15 @@
 {
   "todo": [
     {
-      "id": "c5868bfe-fa1d-4891-acd3-bc43959a9bb7",
-      "content": "洗濯",
-      "editing": false,
-      "completed": true
-    },
-    {
-      "id": "5d87d115-7ebb-4d17-adce-4ffe4b39f8c5",
-      "content": "掃除",
-      "editing": false,
-      "completed": false
-    },
-    {
       "id": "f2c38014-e2df-40ae-ac93-36303b8771ce",
-      "content": "買い物",
+      "content": "お買い物",
       "editing": false,
       "completed": false
+    },
+    {
+      "id": 82397,
+      "content": "遊ぶ",
+      "editing": false
     }
   ],
   "user": [
@@ -42,7 +35,7 @@
     {
       "id": 3,
       "username": "piyo三郎",
-      "age": 50,
+      "age": 45,
       "hobbies": [
         "筋トレ",
         "水泳"
